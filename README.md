@@ -46,8 +46,7 @@ python tower_of_hanoi.py
 <h2>Contributing</h2>
 
 <p>Contributions are welcome! If you find any issues or want to enhance the project, feel free to create a pull request.The first main problem for me is When i draw pillar, rings gets vertical instead of horizontal</p>
-<h2>Contributing</h2>
-    <p>Contributions are welcome! Feel free to fork this project and submit pull requests with improvements or new features.</p>
+    <p>Feel free to fork this project and submit pull requests with improvements or new features.</p>
     
    <h2>License</h2>
     <p>This project is licensed under the MIT License. See the <a href="https://opensource.org/licenses/MIT">LICENSE</a> file for details.</p>
